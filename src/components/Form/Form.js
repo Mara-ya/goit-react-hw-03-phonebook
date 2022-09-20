@@ -12,7 +12,6 @@ export class ContactForm extends Component {
     state = {
         name: '',
         number: '',
-        aaa: ''
     }
 
     handleChange = e => {
